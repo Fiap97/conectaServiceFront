@@ -1,7 +1,7 @@
 import React, {Suspense} from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
 import { Inicio } from './Componentes/Paginas/Inicio';
-import { Login } from './Componentes/Paginas/login';
+import { Login } from './Componentes/Paginas/Login';
 import { Registro } from './Componentes/Paginas/Registro';
 
 export function App () {
