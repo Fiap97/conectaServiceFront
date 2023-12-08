@@ -4,7 +4,7 @@ const Publicaciones = [
         imgURLUsuario:"https://pbs.twimg.com/profile_images/1645908612458348546/y3FPlRob_400x400.jpg",
         nombre:"Felipe Aravena",
         usuario:"@Fiap97",
-        fechaPublicacion:"15 marzo",
+        fechaPublicacion:"Mar 15",
         parrafoPublicacion:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
         imgURLPublicacion:"https://pbs.twimg.com/media/F73u3peWIAAp1Yt?format=jpg&name=small"
     },

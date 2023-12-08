@@ -12,18 +12,7 @@ export function Publicaciones () {
     return(
 
         <Fragment>
-            <div className="fixed backdrop-blur-md font-thin w-3/4 sm:w-3/4 lg:w-3/5 xl:w-2/5">
-                <div className="pt-6 pl-2 text-xl border-slate-800 h-16 hover:bg-slate-200 font-bold">
-                    Inicio
-                </div>
-                <div className="flex border-inherit">
-                    <div className="pt-6 text-center h-16 w-1/2 hover:bg-slate-200 font-bold">
-                        Para ti
-                    </div>
-                    <div className="pt-6 text-center h-16 w-1/2 hover:bg-slate-200 font-bold">
-                        Siguiendo
-                    </div>
-                </div>
+            <div className="">
                 <div className="">
                     {
                         publicaciones.map((publicacion) =>

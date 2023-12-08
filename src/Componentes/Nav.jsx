@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 export function Nav () {
     return(
         <div className="bg-white">
-            <ul className="items-center ml-8  xl:ml-24">
+            <ul className="items-center">
                 <li className="w-8  text-xl font-serif bg-white hover:bg-slate-200 rounded-xl">
                     <Link>
                     <FontAwesomeIcon icon={faX} className='w-8 h-8 mt-3'/>
